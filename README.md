@@ -1,7 +1,7 @@
 ﻿# ✅ Zenith — Smart Task Manager
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-556B2F?style=for-the-badge)](https://taskmanager-a.netlify.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kiranyasmeen/task-manager)
+[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/majidali/task-manager)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:556b2f,100:d4a373&height=150&section=header&text=Zenith+Tasks&fontSize=50&animation=fadeIn" width="100%" />
@@ -28,13 +28,13 @@ A zen-inspired productivity tool using AI to prioritize tasks based on user ener
 
 ## 🚀 Getting Started
 `ash
-git clone https://github.com/kiranyasmeen/task-manager.git
+git clone https://github.com/majidali/task-manager.git
 open index.html
 `
 
 ---
 
-<p align="center">Built with ❤️ by <strong>Kiran Yasmeen</strong></p>
+<p align="center">Built with ❤️ by <strong>Majid Ali</strong></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:556b2f,100:d4a373&height=80&section=footer" width="100%" />
 </p>
